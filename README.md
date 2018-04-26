@@ -3,3 +3,4 @@
  
  * [Caballero Molina, Francisco Jesús](https://github.com/fjcmolina/CRUD-con-JSP-Y-BBDD)
  * [Martín Castro,Jesús](https://github.com/Jesusmc82/CrudJSP-II)
+  * [Zambrana Ruiz,Germán](https://github.com/GermanZR98/CRUD2018v2.0)
