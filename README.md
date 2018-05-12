@@ -12,7 +12,8 @@
  * [Martín Castro, Jesús](https://github.com/Jesusmc82/CrudJSP-II)
  * [Moreno Montiel, Raúl](https://github.com/RaaulMM/Crud_JSP2)
  * [Miranda Stavenuiter, Iván - Bridgeworming](https://github.com/ivanmirandastavenuiter/CRUD)
- * [Murcia España, Sara - League of legends](https://github.com/SaraMurcia/CRUD_LOL) 
+ * [Murcia España, Sara - League of legends](https://github.com/SaraMurcia/CRUD_LOL)
+ * [Ruiz López, Alejandro - MangoAxarquia](https://github.com/AleRui/CRUD_MangoAxarquia_V2.git) 
  * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/Crud-II)
  * [Zambrana Ruiz,Germán](https://github.com/GermanZR98/CRUD2018v2.0)
 
