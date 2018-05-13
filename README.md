@@ -4,7 +4,7 @@
  
  * [Bernal Rodríguez, Juan Francisco - Gestuino](https://github.com/jfbernal92/Crud-v2.0)
  * Blanco Salgado, Lucía - [Planticas](https://github.com/lucia-blanco/CRUD/)
- * Bueno Aguilar, Ángeles - [PeliClub](https://github.com/angelesbueno/CRUD_JSP-2.0)
+ * [Bueno Aguilar, Ángeles - PeliClub](https://github.com/angelesbueno/CRUD_JSP-2.0)
  * [Caballero Molina, Francisco Jesús](https://github.com/fjcmolina/CRUD-con-JSP-Y-BBDD)
  * [Campos Jurado, Rafael](https://github.com/rafacampjurado/crud_reptiles_V2)
  * [Chamorro Silva, Adrián](https://github.com/AdrianChSilva/CRUDv2-Videojuegos) - Videojuegos
