@@ -1,7 +1,8 @@
 
 # indice-crud-ii-jsp-daw-2018
  Indice para el ejercicio CRUD II. Ampliación del primer CRUD que ahora incluye las estructuras  ArrayList y HashMap.
- 
+
+ * [Balsas Martín, David - Pelis - Eventos](https://github.com/davidbalsasmartin/CRUD-V2)
  * [Bernal Rodríguez, Juan Francisco - Gestuino](https://github.com/jfbernal92/Crud-v2.0)
  * Blanco Salgado, Lucía - [Planticas](https://github.com/lucia-blanco/CRUD/)
  * [Bueno Aguilar, Ángeles - PeliClub](https://github.com/angelesbueno/CRUD_JSP-2.0)
