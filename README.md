@@ -7,6 +7,7 @@
  * [Campos Jurado, Rafael](https://github.com/rafacampjurado/crud_reptiles_V2)
  * [Chamorro Silva, Adrián](https://github.com/AdrianChSilva/CRUDv2-Videojuegos) - Videojuegos
  * [Chaparro Barese, Gonzalo Iván](https://github.com/gonzaloivan121/CRUD_II_JSP_2018)
+ * [De la Maza Villalba, Ignacion Alejandro](https://github.com/alejndr/CRUD)
  * [Estebanez Villarrubia, Adán](https://github.com/AdanEstebanez99/CRUD) - Motos
  * [Flores Padilla, Lucía - Reserva tu hotel](https://github.com/luciaflores25/CRUD_JSP_II)
  * [Martín Castro, Jesús](https://github.com/Jesusmc82/CrudJSP-II)
