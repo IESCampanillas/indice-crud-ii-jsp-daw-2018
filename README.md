@@ -13,6 +13,7 @@
  * [Estebanez Villarrubia, Adán](https://github.com/AdanEstebanez99/CRUD) - Motos
  * [Flores Padilla, Lucía - Reserva tu hotel](https://github.com/luciaflores25/CRUD_JSP_II)
  * [Martín Castro, Jesús](https://github.com/Jesusmc82/CrudJSP-II)
+ Meléndez Bravo, Estger (https://github.com/esthermelendez/CRUD-II) - Peluquería
  * [Moreno Montiel, Raúl](https://github.com/RaaulMM/Crud_JSP2)
  * [Miranda Stavenuiter, Iván - Bridgeworming](https://github.com/ivanmirandastavenuiter/CRUD)
  * [Murcia España, Sara - League of legends](https://github.com/SaraMurcia/CRUD_LOL)
