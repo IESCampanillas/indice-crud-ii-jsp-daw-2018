@@ -23,6 +23,7 @@
  * [Pinto Cebrián , Pablo Francisco - Gestion de Empleados](https://github.com/pablopinto/CrudDatosFinal)
  * [Ruiz López, Alejandro - MangoAxarquia](https://github.com/AleRui/CRUD_MangoAxarquia_V2.git) 
  * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/Crud-II)
+ * [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk/CRUD-II.git)
  * [Villalba Sánchez, Adrián](https://github.com/AdrianVillalbaSanchez/CRUD)
  * [Zambrana Jiménes, Manuel](https://github.com/manuelzambrana/crudv2.0)
  * [Zambrana Ruiz,Germán](https://github.com/GermanZR98/CRUD2018v2.0)
