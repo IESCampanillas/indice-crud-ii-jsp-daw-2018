@@ -21,6 +21,7 @@
  * [Murcia España, Sara - League of legends](https://github.com/SaraMurcia/CRUD_LOL)
  * [Parejo Ramos, Beatriz -Exposiciones artísticas](https://github.com/BeatrizPR/CRUD-II)
  * [Pinto Cebrián , Pablo Francisco - Gestion de Empleados](https://github.com/pablopinto/CrudDatosFinal)
+ * [Puche Velasco, Alejandro - eSport](https://github.com/AlejandroPuche/CRUD-2.0)
  * [Ruiz López, Alejandro - MangoAxarquia](https://github.com/AleRui/CRUD_MangoAxarquia_V2.git) 
  * [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/Crud-II)
  * [Stasiuk, Viktoriia](https://github.com/viktoriiaStasiuk/CRUD-II.git)
